@@ -1,0 +1,79 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en";
+<head>
+  <meta charset="utf-8">
+  <title>Triubute Page</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main id="main">
+    <p id="title"><b>Mr. Elon Musk</b></p>
+    <div id="img-div">
+    <img src="https://cdn.britannica.com/05/236505-050-17B6E34A/Elon-Musk-2022.jpg" alt="centered" width="600px" height="300px" style="display:block;" id="image"/><figcaption id="img-caption">Elon Musk is the first richest man in the world.</figcaption>
+    </div>
+   <div id="tribute-info"> <p>Elon Musk life story begins in South Africa, where he was born. Later, he went on to become an American entrepreneur who co-founded PayPal and established SpaceX, a launch vehicle and spacecraft manufacturer. He was also one of the original major investors in and the CEO of Tesla, an electric car company.</p></div>
+<p><b>Elon Musk Story</b></p>
+<p>
+Elon Musk life story begins in South Africa, where he was born. Later, he went on to become an American entrepreneur who co-founded PayPal and established SpaceX, a launch vehicle and spacecraft manufacturer. He was also one of the original major investors in and the CEO of Tesla, an electric car company.</p>
+
+<p>Elon Reeve Musk is the eldest of his parents' three children, and a citizen of three countries: South Africa, Canada, and the United States. He was born in 1971 to Maye Musk, a model and nutritionist, and Errol Musk, an electromechanical engineer whom Elon has described as "a dreadful human being." Read the entire article to learn about Elon Musk History which is inspiring for generations to come.</p>
+
+<p><b>Elon Musk Early Life</b></p>
+
+<p>Musk was born in Canada to a Canadian mother and a South African father. Musk grew up with his head stuck in books and computers. He was bullied by his classmates and often beaten up by class bullies as a little, timid youngster until he grew strong enough to defend himself during a growth spurt in his teens. He developed a video game at the age of 12 and sold it to a computer magazine. Musk left South Africa in 1988 after getting a Canadian passport because he refused to support apartheid through compulsory military duty and wanted to pursue the higher economic prospects offered in the United States.</p>
+
+
+<p><b>Elon Musk Qualification</b></p>
+
+<p>Musk travelled to Canada at the age of 17 to attend Queen's University and evade military service in South Africa. Musk got his Canadian citizenship the same year, partly because he thought it would be easier to get American citizenship that way. Musk moved to the United States in 1992 to study business and physics at the University of Pennsylvania. He earned an undergraduate degree in economics before continuing on to earn a second bachelor's degree in physics. Musk went to Stanford University in California to earn a Ph.D. in energy physics after leaving Penn. But that Ph.D couldn’t make it to Elon Musk Degrees since he walked out of Stanford after only two days to start his first firm.</p>
+
+
+<p><b>Elon Musk Works</b></p>
+
+<p>In the summer of 1995, Musk relocated to Silicon Valley. He enrolled at Stanford University's PhD programme in applied physics, but dropped out after only two days. Kimball Musk, Elon's 15-month younger brother, had recently graduated from Queen's University with a business degree and had travelled to California to join him. As the early Internet grew in popularity, the brothers decided to develop a company called Zip2, an internet business directory with maps. That’s how Elon Musk started entering into the business world.</p>
+
+
+
+<p><b>Facts about Elon Musk</b></p>
+<ul>
+<p><li>Elon Musk was born in the year 1971 in South Africa.</li></p>
+He is best known for co-founding Tesla Motors and SpaceX, but he first got his wealth as a PayPal co-founder.
+
+
+<p><li>Elon Musk did not become an American citizen until he was 31 years old, in 2002.</li></p>
+
+<p><li>Elon Musk immigrated to Canada from South Africa when he was 17 years old. He eventually went to the University of Pennsylvania in the United States for college.</li></p>
+
+
+<p><li>Musk swiftly founded his first startup, Zip2, which supplied online newspapers with maps and business directories, after dropping out of graduate school. In 1999, he sold the company for ＄307 million.</li></p>
+
+<p><li>Musk co-founded X.com in 1999, an online payment startup that later became PayPal before being purchased by eBay for ＄1.5 billion in equity (of which Musk received ＄165 million).</li></p>
+
+<p><li>The National Highway Safety Administration gave the Tesla Model S a 5.4/5 safety rating, the highest ever given to a car.</li></p>
+
+<li>Musk is one of the driving drivers behind SolarCity, which he and his cousins created. He is also the company's main shareholder.</li></p>
+
+<li>Elon Musk also created SpaceX (formerly known as Space Exploration Technologies), a corporation that designs and manufactures space launch vehicles, with a concentration on rocket technology. His goal is to lower the cost of space travel in order to expand human life beyond the Earth.</li></p>
+</ul>
+<p>Elon Musk have been a successful businessman and entrepreneur so there are many lessons to learn from him for more information you can Go to this <a href="https://www.vedantu.com/biography/elon-musk" target="_blank" id="tribute-link" value="link">link and get everything you need</a></p>
+  </main>
+</body>
+
+** end of index.html **
+
+** start of styles.css **
+
+#image{
+  
+  max-width:100%;
+  height:auto;
+  }
+  main{
+    text-align:center;
+    }
+
+
+** end of styles.css **
+
